@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GAppMAUI
+build_property.ProjectDir = C:\Users\PC\Desktop\GymApp\GAppMAUI\GAppMAUI\
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Tabs/HistoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Tabs.HistoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Tabs\HistoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Tabs\HistoryPage.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Tabs/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Tabs.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Tabs\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Tabs\HomePage.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Tabs/LogBookPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Tabs.LogBookPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Tabs\LogBookPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Tabs\LogBookPage.xaml
+
+[C:/Users/PC/Desktop/GymApp/GAppMAUI/GAppMAUI/Tabs/MyPlansPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GAppMAUI.Tabs.MyPlansPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Tabs\MyPlansPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Tabs\MyPlansPage.xaml

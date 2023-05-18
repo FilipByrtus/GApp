@@ -1,0 +1,1 @@
+C:\Users\PC\Desktop\GApp\GAppMAUI\GAppMAUI\GAppMAUI.csproj;x64

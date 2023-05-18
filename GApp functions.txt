@@ -1,0 +1,10 @@
+menu with - Home - Display callorie intake, recomended nutrients
+		  - My plans - displays wourkout plans, default workout plans
+		  - Logbook - tracking of body weight, progres in strength
+		  - History - displays completed workouts
+		  - Create new workout - creation of wourkout plans
+After starting a workout display excercises that should be performed after each excercise pick how difficult that excercise was to later determine the upcoming rep range and weight of the next time this workout plan is used
+
+database of excercises differenciated by muscle group then part of muscle - add custom excercises
+
+creating custom workout - add excercises from database, log rep range (display recomended rep ranges for type of training), weight
